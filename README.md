@@ -13,7 +13,7 @@ Welcome to the Muted Mode eCommerce landing page repository, where style meets s
 ## Technology Stack
 
 - React, CSS, JavaScript
-- Hosting/Deployment: 
+- Hosting/Deployment: [vercel deployed link ](https://muted-mode-landing-page.vercel.app/)
 
 ## Setup Instructions
 
